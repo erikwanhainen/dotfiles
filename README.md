@@ -1,2 +1,3 @@
-# dotfiles
-My dotfiles.
+# My dotfiles
+* vimrc
+* zshrc
